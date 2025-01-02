@@ -2,51 +2,23 @@ class Solution {
 public:
     int romanToInt(string s) {
         int res = 0;
-        for (int i = s.length()-1; i >= 0; i--) {
-            char rom_num = s[i];
-            char prev;
-            
-            if (i == s.length()-1) {
-                prev = '\0';
+        map<char, int> m;
+        m['I'] = 1;
+        m['V'] = 5;
+        m['X'] = 10;
+        m['L'] = 50;
+        m['C'] = 100;
+        m['D'] = 500;
+        m['M'] = 1000;
+
+        for (int i = 0; i < s.length(); i++) {
+            if (m[s[i]] < m[s[i+1]]) {
+                res -= m[s[i]];
             }
-            else {prev = s[i+1];}
-            if (rom_num == 'I') {
-                if (prev == 'V' || prev == 'X') {
-                    res -= 1;
-                    continue;
-                }
-                res += 1;
+            else {
+                res += m[s[i]];
             }
-            
-            if (rom_num == 'V') {
-                res += 5;
-            }
-            if (rom_num == 'X') {
-                if (prev == 'L' || prev == 'C') {
-                    res -= 10;
-                    continue;
-                }
-                res += 10;
-            }
-            if (rom_num == 'L') {
-                res += 50;
-            }
-            if (rom_num == 'C') {
-                if (prev == 'D' || prev == 'M') {
-                    res -= 100;
-                    continue;
-                }
-                res += 100;
-            }
-            if (rom_num == 'D') {
-                res += 500;
-            }
-            if (rom_num == 'M') {
-                res += 1000;
-            }
-            
         }
-        
         return res;
     }
 };
