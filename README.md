@@ -17,6 +17,7 @@ Code from Leet Code problems
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Patrickzhu43/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2350-find-closest-number-to-zero](https://github.com/Patrickzhu43/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -29,5 +30,6 @@ Code from Leet Code problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Patrickzhu43/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
