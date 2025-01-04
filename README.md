@@ -20,6 +20,7 @@ Code from Leet Code problems
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Patrickzhu43/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/Patrickzhu43/Leet-Code/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Patrickzhu43/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [2350-find-closest-number-to-zero](https://github.com/Patrickzhu43/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Patrickzhu43/Leet-Code/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
