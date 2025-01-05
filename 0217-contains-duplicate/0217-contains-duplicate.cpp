@@ -1,6 +1,6 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        return (nums.size() != set(nums.begin(), nums.end()).size());
+        return (nums.size() != unordered_set(nums.begin(), nums.end()).size());
     }
 };
