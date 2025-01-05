@@ -18,6 +18,7 @@ Code from Leet Code problems
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Patrickzhu43/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Patrickzhu43/Leet-Code/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Patrickzhu43/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Patrickzhu43/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Patrickzhu43/Leet-Code/tree/master/0048-rotate-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Code from Leet Code problems
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Patrickzhu43/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
