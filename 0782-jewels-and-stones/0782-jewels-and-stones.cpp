@@ -1,10 +1,12 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        int res = 0;
-        for (int i = 0; i < jewels.size(); i++) {
-            res += count(stones.begin(), stones.end(), jewels[i]);
+        int count = 0;
+        for (int i = 0; i < stones.size(); i++) {
+            if (jewels.find(stones[i]) != string::npos) {
+                count++;
+            }
         }
-        return res;
+        return count;
     }
 };
