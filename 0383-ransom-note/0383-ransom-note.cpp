@@ -6,11 +6,11 @@ public:
         for (auto letter : ransomNote) {
             note[letter]++;
         }
-        //for (auto letter : magazine) {
-        //    mag[letter]++;
-        //}
+        for (auto letter : magazine) {
+            note[letter]--;
+        }
         for (auto x : note) {
-            if (count(magazine.begin(), magazine.end(), x.first) < x.second) {
+            if (x.second > 0) {
                 return false;
             }
         }
