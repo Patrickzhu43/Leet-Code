@@ -7,10 +7,8 @@ public:
             mag[letter]++;
         }
         for (auto letter : ransomNote) {
-            if (mag[letter] > 0) {
-                mag[letter]--;
-            }
-            else {
+            mag[letter]--;
+            if (mag[letter] < 0) {
                 return false;
             }
         }
