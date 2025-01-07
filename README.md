@@ -22,6 +22,7 @@ Code from Leet Code problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Patrickzhu43/Leet-Code/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Patrickzhu43/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Patrickzhu43/Leet-Code/tree/master/0056-merge-intervals) |
@@ -33,6 +34,7 @@ Code from Leet Code problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Patrickzhu43/Leet-Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Patrickzhu43/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Patrickzhu43/Leet-Code/tree/master/0242-valid-anagram) |
