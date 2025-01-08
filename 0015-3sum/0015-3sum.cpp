@@ -18,12 +18,13 @@ public:
                     right--;
                 }
                 else {
-                    vector<int> triplet = {nums[i], nums[left], nums[right]};
-                    res.push_back(triplet);
-                    while (left < right && nums[left] == triplet[1]) {
+                    res.push_back({nums[i], nums[left], nums[right]});
+                    int tl = nums[left];
+                    int tr = nums[right];
+                    while (left < right && nums[left] == tl) {
                         left++;
                     }
-                    while (left < right && nums[right] == triplet[2]) {
+                    while (left < right && nums[right] == tr) {
                         right--;
                     }
                 }
