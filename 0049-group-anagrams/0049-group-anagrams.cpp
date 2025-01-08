@@ -6,10 +6,10 @@ public:
         for (auto word : strs) {
             string sorted = word;
             sort(sorted.begin(), sorted.end());
-            anagrams[sorted].push_back(word);
+            anagrams[sorted].emplace_back(word);
         }
         for (auto it : anagrams) {
-            result.push_back(it.second);
+            result.emplace_back(it.second);
         }
         return result;
     }
