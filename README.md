@@ -6,6 +6,7 @@ Code from Leet Code problems
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Patrickzhu43/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Patrickzhu43/Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@ Code from Leet Code problems
 | [0056-merge-intervals](https://github.com/Patrickzhu43/Leet-Code/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Patrickzhu43/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Patrickzhu43/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Patrickzhu43/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Patrickzhu43/Leet-Code/tree/master/0228-summary-ranges) |
@@ -111,4 +113,8 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Patrickzhu43/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
