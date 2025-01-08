@@ -6,6 +6,7 @@ Code from Leet Code problems
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Patrickzhu43/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Patrickzhu43/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Patrickzhu43/Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0392-is-subsequence) |
@@ -17,6 +18,7 @@ Code from Leet Code problems
 | [0013-roman-to-integer](https://github.com/Patrickzhu43/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Patrickzhu43/Leet-Code/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Patrickzhu43/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Patrickzhu43/Leet-Code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Patrickzhu43/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Patrickzhu43/Leet-Code/tree/master/0344-reverse-string) |
