@@ -31,6 +31,7 @@ Code from Leet Code problems
 | [0054-spiral-matrix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Patrickzhu43/Leet-Code/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Patrickzhu43/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Patrickzhu43/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Patrickzhu43/Leet-Code/tree/master/0228-summary-ranges) |
@@ -43,6 +44,7 @@ Code from Leet Code problems
 | [0013-roman-to-integer](https://github.com/Patrickzhu43/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Patrickzhu43/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Patrickzhu43/Leet-Code/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Patrickzhu43/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Patrickzhu43/Leet-Code/tree/master/0242-valid-anagram) |
@@ -100,4 +102,8 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Patrickzhu43/Leet-Code/tree/master/0169-majority-element) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
