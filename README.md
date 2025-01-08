@@ -13,6 +13,7 @@ Code from Leet Code problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/Patrickzhu43/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Patrickzhu43/Leet-Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Patrickzhu43/Leet-Code/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Patrickzhu43/Leet-Code/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/Patrickzhu43/Leet-Code/tree/master/0383-ransom-note) |
@@ -26,6 +27,7 @@ Code from Leet Code problems
 | [0001-two-sum](https://github.com/Patrickzhu43/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Patrickzhu43/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Patrickzhu43/Leet-Code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Patrickzhu43/Leet-Code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Patrickzhu43/Leet-Code/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Patrickzhu43/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +41,7 @@ Code from Leet Code problems
 | [0001-two-sum](https://github.com/Patrickzhu43/Leet-Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Patrickzhu43/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Patrickzhu43/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Patrickzhu43/Leet-Code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Patrickzhu43/Leet-Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Patrickzhu43/Leet-Code/tree/master/0383-ransom-note) |
@@ -66,6 +69,7 @@ Code from Leet Code problems
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Patrickzhu43/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Patrickzhu43/Leet-Code/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Patrickzhu43/Leet-Code/tree/master/0242-valid-anagram) |
