@@ -6,12 +6,7 @@ public:
         for (int i = 0; i < strs.size(); i++) {
             string sorted = strs[i];
             sort(sorted.begin(), sorted.end());
-            if (anagrams.find(sorted) == anagrams.end()) {
-                anagrams[sorted] = {strs[i]};
-            }
-            else {
-                anagrams[sorted].push_back(strs[i]);
-            }
+            anagrams[sorted].push_back(strs[i]);
         }
         for (auto it : anagrams) {
             result.push_back(it.second);
