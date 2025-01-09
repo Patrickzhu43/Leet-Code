@@ -7,10 +7,7 @@ public:
                 brackets.push(c);
                 continue;
             }
-            if ((c == ')' || c == ']' || c == '}') && brackets.empty()) {
-                return false;
-            }
-            if ((c == ')' && brackets.top() == '(') || (c == ']' && brackets.top() == '[') || (c == '}' && brackets.top() == '{')) {
+            if (!brackets.empty() && ((c == ')' && brackets.top() == '(') || (c == ']' && brackets.top() == '[') || (c == '}' && brackets.top() == '{'))) {
                 brackets.pop();
             }
             else {
