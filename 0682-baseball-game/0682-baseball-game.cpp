@@ -17,12 +17,7 @@ public:
                 scores.pop();
             }
             else {
-                int negative = 1;
-                if (operations[i][0] == '-') {
-                    negative = -1;
-                    operations[i].erase(operations[i].begin());
-                }
-                scores.push(stoi(operations[i])*negative);
+                scores.push(stoi(operations[i]));
             }
         }
         int total = 0;
