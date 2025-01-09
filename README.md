@@ -45,6 +45,7 @@ Code from Leet Code problems
 | [0056-merge-intervals](https://github.com/Patrickzhu43/Leet-Code/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Patrickzhu43/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Patrickzhu43/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Patrickzhu43/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Patrickzhu43/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -72,6 +73,7 @@ Code from Leet Code problems
 | ------- |
 | [0013-roman-to-integer](https://github.com/Patrickzhu43/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Patrickzhu43/Leet-Code/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Patrickzhu43/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/Patrickzhu43/Leet-Code/tree/master/0273-integer-to-english-words) |
 ## Dynamic Programming
 |  |
@@ -139,6 +141,7 @@ Code from Leet Code problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Patrickzhu43/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Patrickzhu43/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Patrickzhu43/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Patrickzhu43/Leet-Code/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
