@@ -2,13 +2,18 @@ class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
         vector<int> res(temperatures.size(), 0);
-        stack<int> st;
-        for (int i = 0; i < temperatures.size(); i++) {
-            while (!st.empty() && temperatures[i] > temperatures[st.top()]) {
-                res[st.top()] = i - st.top();
-                st.pop();
+        int max = 0;
+        for (int i = temperatures.size()-1; i >= 0; i--) {
+            int curr = temperatures[i];
+            if (curr >= max) {
+                max = curr;
+                continue;
             }
-            st.push(i);
+            int days = 1;
+            while (temperatures[i + days] <= curr) {
+                days += res[i + days];
+            }
+            res[i] = days;
         }
         return res;
     }
