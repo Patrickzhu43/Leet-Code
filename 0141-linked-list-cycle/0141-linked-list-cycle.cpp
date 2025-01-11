@@ -9,14 +9,13 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode *ptr1 = head;
-        ListNode *ptr2 = head;
-        while (ptr1 != nullptr && ptr2 != nullptr && ptr2->next != nullptr) {
-            ptr1 = ptr1->next;
-            ptr2 = ptr2->next->next;
-            if (ptr1 == ptr2) {
+        unordered_set<ListNode*> vals;
+        while (head != nullptr) {
+            if (vals.find(head) != vals.end()) {
                 return true;
             }
+            vals.insert(head);
+            head = head->next;
         }
         return false;
     }
