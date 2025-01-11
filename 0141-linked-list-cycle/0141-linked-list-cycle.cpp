@@ -11,7 +11,7 @@ public:
     bool hasCycle(ListNode *head) {
         ListNode *ptr1 = head;
         ListNode *ptr2 = head;
-        while (ptr2 != nullptr && ptr2->next != nullptr) {
+        while (ptr2 && ptr2->next) {
             ptr1 = ptr1->next;
             ptr2 = ptr2->next->next;
             if (ptr1 == ptr2) {
