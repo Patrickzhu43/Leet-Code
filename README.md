@@ -56,6 +56,7 @@ Code from Leet Code problems
 | [0238-product-of-array-except-self](https://github.com/Patrickzhu43/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Patrickzhu43/Leet-Code/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Patrickzhu43/Leet-Code/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Patrickzhu43/Leet-Code/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Patrickzhu43/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -140,6 +141,7 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Patrickzhu43/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Patrickzhu43/Leet-Code/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
