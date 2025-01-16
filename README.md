@@ -143,6 +143,7 @@ Code from Leet Code problems
 | ------- |
 | [0035-search-insert-position](https://github.com/Patrickzhu43/Leet-Code/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Patrickzhu43/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Patrickzhu43/Leet-Code/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Patrickzhu43/Leet-Code/tree/master/0792-binary-search) |
 ## Greedy
 |  |
@@ -176,4 +177,8 @@ Code from Leet Code problems
 | [0141-linked-list-cycle](https://github.com/Patrickzhu43/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Patrickzhu43/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Patrickzhu43/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Patrickzhu43/Leet-Code/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
