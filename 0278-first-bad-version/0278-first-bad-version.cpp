@@ -15,7 +15,7 @@ public:
                     first = mid;
                 }
             }
-            if (!isBadVersion(mid)) {
+            else {
                 low = mid + 1;
             }
         }
