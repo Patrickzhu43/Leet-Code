@@ -11,7 +11,6 @@ public:
             if (nums[mid] > nums[nums.size()-1]) {
                 low = mid + 1;
             }
-            cout << low << endl;
         }
         return nums[low];
     }
