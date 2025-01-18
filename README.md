@@ -61,6 +61,7 @@ Code from Leet Code problems
 | [0682-baseball-game](https://github.com/Patrickzhu43/Leet-Code/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Patrickzhu43/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Patrickzhu43/Leet-Code/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Patrickzhu43/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Patrickzhu43/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -154,6 +155,7 @@ Code from Leet Code problems
 | [0278-first-bad-version](https://github.com/Patrickzhu43/Leet-Code/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Patrickzhu43/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Patrickzhu43/Leet-Code/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Patrickzhu43/Leet-Code/tree/master/0907-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
