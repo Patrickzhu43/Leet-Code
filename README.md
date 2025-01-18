@@ -58,6 +58,7 @@ Code from Leet Code problems
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Patrickzhu43/Leet-Code/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Patrickzhu43/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/Patrickzhu43/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Patrickzhu43/Leet-Code/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Patrickzhu43/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Patrickzhu43/Leet-Code/tree/master/0792-binary-search) |
@@ -192,4 +193,8 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Patrickzhu43/Leet-Code/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Patrickzhu43/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
