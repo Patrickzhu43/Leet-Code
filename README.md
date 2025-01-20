@@ -64,6 +64,7 @@ Code from Leet Code problems
 | [0792-binary-search](https://github.com/Patrickzhu43/Leet-Code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Patrickzhu43/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Patrickzhu43/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [2350-find-closest-number-to-zero](https://github.com/Patrickzhu43/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Patrickzhu43/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Patrickzhu43/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Code from Leet Code problems
 | [0367-valid-perfect-square](https://github.com/Patrickzhu43/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Patrickzhu43/Leet-Code/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Patrickzhu43/Leet-Code/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Patrickzhu43/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -197,4 +200,5 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Patrickzhu43/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Patrickzhu43/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
