@@ -12,7 +12,7 @@ public:
                 sum -= nums[left++];
             }
         }
-        if (res == INT_MAX) {
+        if (res ==  INT_MAX) {
             return 0;
         }
         return res;
