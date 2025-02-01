@@ -28,6 +28,6 @@ public:
         if (root->right) {
             right = hasPathSum(root->right, sum);
         }
-        return left || right;
+        return left ||  right;
     }
 };
