@@ -70,6 +70,7 @@ Code from Leet Code problems
 | [0907-koko-eating-bananas](https://github.com/Patrickzhu43/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Patrickzhu43/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/Patrickzhu43/Leet-Code/tree/master/1127-last-stone-weight) |
 | [2350-find-closest-number-to-zero](https://github.com/Patrickzhu43/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -274,4 +275,8 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Patrickzhu43/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Patrickzhu43/Leet-Code/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
