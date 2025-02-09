@@ -53,6 +53,7 @@ Code from Leet Code problems
 | [0054-spiral-matrix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Patrickzhu43/Leet-Code/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Patrickzhu43/Leet-Code/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Patrickzhu43/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Patrickzhu43/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Patrickzhu43/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -292,4 +293,12 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Patrickzhu43/Leet-Code/tree/master/1127-last-stone-weight) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Patrickzhu43/Leet-Code/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Patrickzhu43/Leet-Code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
