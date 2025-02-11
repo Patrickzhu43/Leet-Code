@@ -48,6 +48,7 @@ Code from Leet Code problems
 | [0035-search-insert-position](https://github.com/Patrickzhu43/Leet-Code/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Patrickzhu43/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Patrickzhu43/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Patrickzhu43/Leet-Code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Patrickzhu43/Leet-Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Patrickzhu43/Leet-Code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Patrickzhu43/Leet-Code/tree/master/0054-spiral-matrix) |
@@ -300,6 +301,7 @@ Code from Leet Code problems
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Patrickzhu43/Leet-Code/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Patrickzhu43/Leet-Code/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
