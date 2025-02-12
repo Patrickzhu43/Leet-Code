@@ -66,6 +66,7 @@ Code from Leet Code problems
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Patrickzhu43/Leet-Code/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Patrickzhu43/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Patrickzhu43/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Patrickzhu43/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Patrickzhu43/Leet-Code/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Patrickzhu43/Leet-Code/tree/master/0739-daily-temperatures) |
@@ -89,6 +90,7 @@ Code from Leet Code problems
 | [0169-majority-element](https://github.com/Patrickzhu43/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Patrickzhu43/Leet-Code/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Patrickzhu43/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Patrickzhu43/Leet-Code/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Patrickzhu43/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Patrickzhu43/Leet-Code/tree/master/0567-permutation-in-string) |
@@ -128,6 +130,7 @@ Code from Leet Code problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Patrickzhu43/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Patrickzhu43/Leet-Code/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Patrickzhu43/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -145,6 +148,7 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Patrickzhu43/Leet-Code/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Patrickzhu43/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Patrickzhu43/Leet-Code/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/Patrickzhu43/Leet-Code/tree/master/1297-maximum-number-of-balloons) |
 ## Recursion
@@ -158,6 +162,7 @@ Code from Leet Code problems
 | ------- |
 | [0169-majority-element](https://github.com/Patrickzhu43/Leet-Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Patrickzhu43/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 ## Union Find
 |  |
 | ------- |
@@ -297,6 +302,7 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Patrickzhu43/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/Patrickzhu43/Leet-Code/tree/master/1127-last-stone-weight) |
 ## Backtracking
 |  |
@@ -311,4 +317,9 @@ Code from Leet Code problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Patrickzhu43/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Patrickzhu43/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Patrickzhu43/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
