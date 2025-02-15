@@ -23,7 +23,7 @@ public:
             return false;
         }
         if (prev >= root->val) {
-            return false;
+            return  false;
         }
         prev = root->val;
         return helper(root->right, prev);
