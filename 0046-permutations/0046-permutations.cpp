@@ -6,7 +6,7 @@ public:
         vector<bool> used(nums.size(), false);
         
         backtrack(nums,  ans, sol, used);
-        return ans;
+        return  ans;
     }
     
     void backtrack(vector<int>& nums, vector<vector<int>>& ans, vector<int>& sol, vector<bool>& used) {
