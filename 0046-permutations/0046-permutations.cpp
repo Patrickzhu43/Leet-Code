@@ -10,7 +10,7 @@ public:
     }
     
     void backtrack(vector<int>& nums, vector<vector<int>>& ans, vector<int>& sol, vector<bool>& used) {
-        if ( sol.size() == nums.size()) {
+        if ( sol.size()  == nums.size()) {
             ans.push_back(sol);
             return;
         }
