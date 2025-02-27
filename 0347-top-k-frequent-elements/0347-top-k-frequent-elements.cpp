@@ -7,7 +7,7 @@ public:
         }
         
         auto cmp = [](const pair<int, int>& a, const pair<int, int>& b) {
-            return a.second > b.second;
+            return  a.second > b.second;
         };
         
         priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)> minHeap(cmp);
