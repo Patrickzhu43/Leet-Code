@@ -21,7 +21,7 @@ public:
             }
         }
         
-        vector<int> topK;
+        vector<int>  topK;
         while (!minHeap.empty()) {
             topK.push_back(minHeap.top().first);
             minHeap.pop();
