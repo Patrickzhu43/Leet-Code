@@ -20,7 +20,7 @@ public:
             
             sol.push_back(nums[i]);
             used[i] = true;
-            backtrack(nums, ans, sol, used);
+            backtrack(nums,  ans, sol, used);
             sol.pop_back();
             used[i] =  false;
         }
