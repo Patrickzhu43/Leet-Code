@@ -13,7 +13,7 @@ public:
         priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)> minHeap(cmp);
         
         for (auto& entry : countMap) {
-            if (minHeap.size() < k) {
+            if (minHeap.size() <  k) {
                 minHeap.push(entry);
             } else {
                 minHeap.push(entry);
