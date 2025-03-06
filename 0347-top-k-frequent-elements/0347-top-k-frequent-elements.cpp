@@ -17,7 +17,7 @@ public:
                 minHeap.push(entry);
             } else {
                 minHeap.push(entry);
-                minHeap.pop();
+                 minHeap.pop();
             }
         }
         
