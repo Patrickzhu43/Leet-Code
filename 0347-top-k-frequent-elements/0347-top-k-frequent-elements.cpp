@@ -28,6 +28,6 @@ public:
         }
         
         reverse(topK.begin(), topK.end());
-        return topK;
+        return  topK;
     }
 };
